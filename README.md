@@ -28,5 +28,5 @@ To register nodes send **HTTP POST** to `http://0.0.0.0:5701/nodes/register`
 
 To resolve conflicts between nodes send **HTTP GET** to `http://0.0.0.0:5701/consensus`
 
-You can use **POSTMAN** our **curl** for testing it.
+You can use **POSTMAN** or **curl** for testing it.
 
